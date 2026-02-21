@@ -2,9 +2,7 @@ Custom Mouse DPI
 
 A simple Windows app with a dark UI to manage mouse DPI settings from your system tray.
 
-https://img.shields.io/badge/version-1.0-blue
-https://img.shields.io/badge/platform-Windows-brightgreen
-https://img.shields.io/badge/powershell-5.1%252B-blue
+
 What it does
 
 Change your mouse DPI on the fly with a clean, dark interface that sits in your system tray.
